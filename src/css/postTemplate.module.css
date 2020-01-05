@@ -16,19 +16,23 @@
   transition: all 0.3s ease-in-out;
   margin-bottom: 2rem;
 }
+
 .link:hover {
   background: var(--mainBlack);
   color: var(--mainWhite);
 }
+
 .info {
   text-align: center;
 }
+
 .info h1 {
   letter-spacing: 5px;
   margin-bottom: 0.5rem;
   text-transform: capitalize;
   font-size: 48px;
 }
+
 .info h4 {
   letter-spacing: 5px;
   text-transform: capitalize;
@@ -36,13 +40,16 @@
   text-align: center;
   margin-bottom: 3rem;
 }
+
 .content {
   margin: 2rem 0;
 }
+
 .content h1 {
   text-transform: capitalize;
   margin-bottom: 1rem;
 }
+
 .content p {
   line-height: 1.5;
   margin-bottom: 1rem;
